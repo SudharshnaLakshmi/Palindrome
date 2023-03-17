@@ -48,7 +48,7 @@ namespace palindrome
 ### PALINDROME
 ![](1.png)
 ### NOT A PALINDROME
-![](2.png666666)
+![](2.png)
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
